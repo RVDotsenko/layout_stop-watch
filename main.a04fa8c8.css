@@ -1,0 +1,2 @@
+.watch{display:flex;margin:0 auto 117px}.watch__hand-second{width:6px;height:170px;background-color:#d3d318;border-radius:3px;position:relative;left:-9px;bottom:20px;animation:second 60s linear infinite;transform-origin:3px 165px}.watch__hand-minute{width:12px;height:150px;background-color:#1879d3;border-radius:6px;position:relative;animation:second 3600s linear infinite;transform-origin:6px 145px}@keyframes second{to{transform:rotate(1turn)}}body{margin:0;height:100vh;display:flex;align-items:center}
+/*# sourceMappingURL=main.a04fa8c8.css.map */
